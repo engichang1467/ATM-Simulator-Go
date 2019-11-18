@@ -9,7 +9,7 @@ go run atm.go
 ```
 
 ### The Welcome page is like this
-```bash
+```
 Welcome to my ATM Simulator
 
 Enter any option to be served!
