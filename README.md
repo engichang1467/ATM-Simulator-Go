@@ -31,7 +31,7 @@ Press 1 to proceed and 2 to exit
 
 ```
 
-### To withdraw
+### To Withdraw
 
 ```
 Please enter amount to withdraw: 90
@@ -42,7 +42,7 @@ Press 1 to proceed and 2 to exit
 
 ```
 
-### To check balance
+### To check Balance
 
 ```
 You bank balance is: $910.00
